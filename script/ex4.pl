@@ -11,7 +11,8 @@ $n=$n/10;
 }
 if($s==$t){
 print"Armstrong no";
+}
 else{
-print"Not armstrong"
+print"Not armstrong";
 }
 
